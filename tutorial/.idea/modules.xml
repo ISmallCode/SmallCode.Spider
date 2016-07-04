@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../fun/.idea/fun.iml" filepath="$PROJECT_DIR$/../fun/.idea/fun.iml" />
+      <module fileurl="file://F:/Spider/karlspider/.idea/karlspider.iml" filepath="F:/Spider/karlspider/.idea/karlspider.iml" />
+      <module fileurl="file://F:/python/.idea/python.iml" filepath="F:/python/.idea/python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tutorial.iml" filepath="$PROJECT_DIR$/.idea/tutorial.iml" />
+      <module fileurl="file://D:/git/distribute_crawler/woaidu_crawler/.idea/woaidu_crawler.iml" filepath="D:/git/distribute_crawler/woaidu_crawler/.idea/woaidu_crawler.iml" />
+    </modules>
+  </component>
+</project>

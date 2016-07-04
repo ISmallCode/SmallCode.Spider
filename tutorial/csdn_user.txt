@@ -1,0 +1,1 @@
+Error 'psycopg2.extensions.connection' object has no attribute 'ping',Url:http://blog.csdn.net,From=csdn_user,parse 

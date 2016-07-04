@@ -1,0 +1,3 @@
+easy_install virtualenv
+virtualenv venv
+python setup.py --requires | xargs pip install

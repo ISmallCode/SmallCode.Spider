@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - nw@118.192.146.104" uuid="8646fca1-cd59-407f-a033-1bc9662b31f0">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>nw.*</schema-pattern>
+      <default-schemas>nw.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - spider@118.192.146.104" uuid="fd6a1b5b-c0fc-4cd2-adbd-b3f6eb8e4f73">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>spider.*</schema-pattern>
+      <default-schemas>spider.*</default-schemas>
+    </data-source>
+    <data-source name="MySQL - blog@118.192.146.104" uuid="c17765f9-e48b-4970-a961-f2402fb3cd7b">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>blog.*</schema-pattern>
+      <default-schemas>blog.*</default-schemas>
+    </data-source>
+  </component>
+</project>
